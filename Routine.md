@@ -53,8 +53,8 @@ Funções recursivas.
 Casos de base e passos recursivos.
 
 Dia 11: Ponteiros
-- Conceito de ponteiros
-- Manipulação de ponteiros
+Conceito de ponteiros
+Manipulação de ponteiros
 
 Dia 12: Estruturas.
 Declaração e utilização de structs.

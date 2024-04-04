@@ -44,31 +44,27 @@ Dia 8: Funções.
 Declaração e chamada de funções.
 Parâmetros e retorno de funções.
 
-Dia 9: Escopo de Variáveis.
-Escopo local e global de variáveis.
-Variáveis estáticas.
-
-Dia 10: Recursão.
+Dia 9: Recursão.
 Funções recursivas.
 Casos de base e passos recursivos.
 
-Dia 11: Ponteiros
+Dia 10: Ponteiros
 Conceito de ponteiros
 Manipulação de ponteiros
 
-Dia 12: Estruturas.
+Dia 11: Estruturas.
 Declaração e utilização de structs.
 Acesso a membros de structs.
 
-Dia 13: Classes e Objetos.
+Dia 12: Classes e Objetos.
 Introdução à Programação Orientada a Objetos (POO).
 Declaração de classes e criação de objetos.
 
-Dia 14: Herança.
+Dia 13: Herança.
 Herança de classes.
 Classes base e derivadas.
 
-Dia 15: Polimorfismo.
+Dia 14: Polimorfismo.
 Polimorfismo de sobrecarga e de sobreposição.
 Uso de ponteiros e referências em polimorfismo.
 

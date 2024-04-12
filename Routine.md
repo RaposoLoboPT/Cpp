@@ -48,23 +48,19 @@ Dia 9: Recursão.
 Funções recursivas.
 Casos de base e passos recursivos.
 
-Dia 10: Ponteiros
-Conceito de ponteiros
-Manipulação de ponteiros
-
-Dia 11: Estruturas.
+Dia 10: Estruturas.
 Declaração e utilização de structs.
 Acesso a membros de structs.
 
-Dia 12: Classes e Objetos.
+Dia 11: Classes e Objetos.
 Introdução à Programação Orientada a Objetos (POO).
 Declaração de classes e criação de objetos.
 
-Dia 13: Herança.
+Dia 12: Herança.
 Herança de classes.
 Classes base e derivadas.
 
-Dia 14: Polimorfismo.
+Dia 13: Polimorfismo.
 Polimorfismo de sobrecarga e de sobreposição.
 Uso de ponteiros e referências em polimorfismo.
 

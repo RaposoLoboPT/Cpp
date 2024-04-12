@@ -23,10 +23,20 @@ double division(double a, double b)
     return a / b;
 }
 
+double exponentiation(double a, double b)
+{
+    for (int i = 1; i < b; i++)
+    {
+        a *= a;
+    }
+    
+    return a;
+}
+
 int main()
 {
     string oper;
-    cout << "Qual operacao pretende realizar? (addition, subtraction, multiplication, division): ";
+    cout << "Qual operacao pretende realizar? (addition, subtraction, multiplication, division ou exponentiation): ";
     cin >> oper;
 
     for (char &low : oper)
@@ -58,6 +68,10 @@ int main()
     else if (oper == "division")
     {
         cout << "O resultado da operacao e " << division(num1, num2) << "." << endl;
+    }
+    else if (oper == "exponentiation")
+    {
+        cout << "O resultado da operacao e " << exponentiation(num1, num2) << "." << endl;
     }
     else
     {

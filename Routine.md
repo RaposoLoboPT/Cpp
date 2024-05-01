@@ -49,21 +49,9 @@ Funções recursivas.
 Casos de base e passos recursivos.
 
 Dia 10: Estruturas.
-Declaração e utilização de structs.
-Acesso a membros de structs.
+Declaração e utilização de "structs".
+Acesso a membros de "structs".
 
-Dia 11: Classes e Objetos.
-Introdução à Programação Orientada a Objetos (POO).
-Declaração de classes e criação de objetos.
+Obs: EN: It's not necessary to do 1 "day" a day, as long as you can learn. OOP (Object Oriented Programming) is not in this repository.
 
-Dia 12: Herança.
-Herança de classes.
-Classes base e derivadas.
-
-Dia 13: Polimorfismo.
-Polimorfismo de sobrecarga e de sobreposição.
-Uso de ponteiros e referências em polimorfismo.
-
-Obs: EN: It's not necessary to do 1 "day" a day, as long as you can learn.
-
-PT: Não é necessário fazer 1 “dia” por dia, desde que você consiga aprender.
+PT: Não é necessário fazer 1 “dia” por dia, desde que você consiga aprender. A POO (Programação Orientada a Objetos) não está neste repositório.
